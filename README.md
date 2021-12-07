@@ -55,6 +55,30 @@ Material de estudo para o Comptia Security+ SY-601
 **RFC** - *Request for Comments* : Quando liberam uma tecnologia nova ou patch e ela está em fase de testes, etc.\
 **RTP** - *Real-Time Transport Protocol*\
 
+### S
+**SPOF** - *Single Point of Failure* : Quando a aplicação tem apenas um ponto que sustenta toda a disponibilidade dela\
+**SIEM** - *Security Information and Event Management* : Um sistema para centralizar e monitorar Logs\
+**SSO** - *Single Sign On* : Logar uma única vez no sistema para fazer todas as operações\
+**SAML** - *Security Assertion Markup Language* : Um padrão que usa Federations para trocar mensagens XML-Based e garantir **SSO** em diferentes Websites\
+
+### T
+**TCO** - *Total Cost of Ownership*\
+
+### U
+**UTM** - *Unified Threat Management* : Sistema que oferece tratamento de segurança unificado. Como Firewall, AntiDDoS, etc.\
+
+### V
+
+### W
+**WAF** - *Web Application Firewall* : Firewall Dedicado apenas para assegurar uma WebApp
+
+### X
+
+### Y
+
+### Z
+
+
 
 
 ## Dicionário de Palavras
