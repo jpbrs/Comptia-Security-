@@ -1,6 +1,6 @@
 # Comptia Security+
 
-Material de estudo para o Comptia Security+ SY-601
+Material de estudo para o Comptia Security+ SY-601 separados por Capítulos.
 
 ## Dicionário de Siglas
 
