@@ -1,6 +1,6 @@
 # Comptia Security+
 
-Material de estudo para o Comptia Security+ SY-601 separados por Capítulos.
+Material de estudo para o Comptia Security+ SY-601 separados por Capítulos. **Não é aconselhável que siga esse resumo para tirar a certificação, visto que apenas anotei as partes que eu não tinha pleno conhecimento, enquanto todas as outras foram ocultadas desse resumo**
 
 ## Dicionário de Siglas
 
@@ -82,6 +82,9 @@ Material de estudo para o Comptia Security+ SY-601 separados por Capítulos.
 
 
 ## Dicionário de Palavras
+
+**Accounting** - É monitorar atividades do usuário e as manter em Logs
+**Audit Trail** - Permite que um profissional use logs para recriar um incidente de Segurança
 
 **Elasticidade** - Capacidade de aumentar ou diminuir o poder de processamento e banda de acordo com o tráfego, como se faz em Clouds\
 **Hardening** - Tornar a aplicação mais segura do que com as default configs, como mudar usuários padrão, implementar Defense in Depth, desabilitar portas que não serão usadas, etc.\
