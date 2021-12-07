@@ -18,7 +18,7 @@ Material de estudo para o Comptia Security+ SY-601
 ### E
 
 ### F
-**FRR** - *False Rejection Rate*
+**FRR** - *False Rejection Rate* \\
 **FAR** - *False Acceptance Rate*
 
 ### G
