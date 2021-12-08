@@ -28,3 +28,5 @@ Pasta de logs do linux que inclui:
 4. /auth.log : Logs de logins
 5. /Kern.log : Logs do Kernel
 6. /httpd : Logs do Apache
+
+![](permission.png)

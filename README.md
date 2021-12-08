@@ -42,6 +42,7 @@ Material de estudo para o Comptia Security+ SY-601 separados por Capítulos. **N
 **NIST** - *National Institute of Standards and Technology* : Onde vem boa parte dos padrões, boa fonte de SegInfo\
 **NOC** - *Network Operations Center* \
 **NTFS** - *Network Technology File System* : Controla quem pode ler, executar, etc. os arquivos no Windows\
+**NGFW** - Next Generation Firewall\
 
 ### O
 
@@ -89,6 +90,8 @@ Material de estudo para o Comptia Security+ SY-601 separados por Capítulos. **N
 **Elasticidade** - Capacidade de aumentar ou diminuir o poder de processamento e banda de acordo com o tráfego, como se faz em Clouds\
 **Hardening** - Tornar a aplicação mais segura do que com as default configs, como mudar usuários padrão, implementar Defense in Depth, desabilitar portas que não serão usadas, etc.\
 **Resiliência** - Capacidade de um sistema de se recuperar de uma falha o mais rápido possível\
+
+**Screened Subnet** - DMZ
 
 
 
