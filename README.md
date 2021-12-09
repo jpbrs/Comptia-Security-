@@ -24,6 +24,7 @@ Material de estudo para o Comptia Security+ SY-601 separados por Capítulos. **N
 ### G
 
 ### H
+**HIDS** - *Host-based Intrusion Detection System* : IDS instalador em um workstation server\
 
 ### I
 **ISP** - *Internet Service Provider* : Como a Net, Claro, etc. Quem de fato dá o IP para o roteador de casa\
@@ -42,7 +43,9 @@ Material de estudo para o Comptia Security+ SY-601 separados por Capítulos. **N
 **NIST** - *National Institute of Standards and Technology* : Onde vem boa parte dos padrões, boa fonte de SegInfo\
 **NOC** - *Network Operations Center* \
 **NTFS** - *Network Technology File System* : Controla quem pode ler, executar, etc. os arquivos no Windows\
-**NGFW** - Next Generation Firewall\
+**NGFW** - *Next Generation Firewall*\
+**NIDS** - *Network-Based Intrusion Detection System*\
+
 
 ### O
 
