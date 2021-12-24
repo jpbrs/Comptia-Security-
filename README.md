@@ -100,15 +100,22 @@ Material de estudo para o Comptia Security+ SY-601 separados por Capítulos. **N
 
 ## Dicionário de Palavras
 
-**Accounting** - É monitorar atividades do usuário e as manter em Logs
-**Audit Trail** - Permite que um profissional use logs para recriar um incidente de Segurança
+**Accounting** - É monitorar atividades do usuário e as manter em Logs\\
+**Audit Trail** - Permite que um profissional use logs para recriar um incidente de Segurança\\
+
+**Data Exfiltration** - Transferência de dados não autorizada para fora da organização.\
 
 **Elasticidade** - Capacidade de aumentar ou diminuir o poder de processamento e banda de acordo com o tráfego, como se faz em Clouds\
+
+**MSP** - Empresa que fornece serviço de TI para outras\
+**MSSP** - Empresa que fornece serviços de Seginfo para outras\
+
 **Hardening** - Tornar a aplicação mais segura do que com as default configs, como mudar usuários padrão, implementar Defense in Depth, desabilitar portas que não serão usadas, etc.\
 
 **Port Mirroring** - Espelhar todo o tráfego do Switch para uma porta. IDS as vezes funcionam assim.
 **Resiliência** - Capacidade de um sistema de se recuperar de uma falha o mais rápido possível\
 
+**SCADA** - Sistema de dispositivos embarcados para controlar ICS
 **Screened Subnet** - DMZ
 
 
