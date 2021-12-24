@@ -31,7 +31,7 @@ Material de estudo para o Comptia Security+ SY-601 separados por Capítulos. **N
 ### G
 
 ### H
-**HIDS** - *Host-based Intrusion Detection System*\
+**HIDS** - *Host-based Intrusion Detection System* : IDS instalador em um workstation server\
 
 ### I
 **ISP** - *Internet Service Provider* : Como a Net, Claro, etc. Quem de fato dá o IP para o roteador de casa\
