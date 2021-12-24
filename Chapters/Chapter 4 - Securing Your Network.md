@@ -87,7 +87,7 @@ Existem dois tipos de NAC:
 1. **PAP** : Password Authentication Protocol, envia senha em texto plano
 2. **CHAP** : Challenge Handshake Authentication Protocol, usa chave simétrica e um nonce dado pelo server para encriptar os dados de autenticação.
 ### Centralizada
-1. **RADIUS** : Pode ser usado com UDP ou TCP, só encripta a senha por padrão, mas pode encriptar todo o processo de autenticação. Usado para centralizar a autenticação em diversos servidores VPM
+1. **RADIUS** : RADIUS  é um serviço de autenticação que provê autenticação centralizada para clientes REMOTOS. Pode ser usado com UDP ou TCP, só encripta a senha por padrão, mas pode encriptar todo o processo de autenticação. Usado para centralizar a autenticação em diversos servidores VPM
 2. **TACACS+** : Encripta todo o processo de autenticação, interage com Kerberos e além disso serve para acessar equipamentos de rede como switches e roteadores
 
 
