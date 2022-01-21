@@ -7,9 +7,14 @@ Material de estudo para o Comptia Security+ SY-601 separados por Capítulos. **N
 ### A
 **AAA** - *Authenticantion, Authorization and Accounting* : Sendo Accounting o ato de monitorar as atividades do usuário e os manter em logs\
 **AP** - *Acces Point* : Ponto de acesso Wireless\
+**APT** - *Advanced Persistent Threat*\
+**ALE** - *Annual Loss Expectancy* : Número de vezes que um evento ocorre multiplicado pelo prejuízo\
+**ARO** - *Annual Rate of Occurrence* : Número de vezes que um evento ocorre\
 
 ### B
 **BPDU** - *Bridge Protocol Data Unit* : Enviado pelo STP e RSTP para detectar loops e previní-los\
+**BCP** - *Business Continuity Plan*\
+**BIA** - *Business Impact Analysis*\
 
 ### C
 **CER** - *Crossover Error Rate* : A interseção dos erros de Falso Positivo(FAR) e Falso Negativo(FRR), quanto menor o CER, mais acurado é o sistema\
@@ -47,6 +52,8 @@ Material de estudo para o Comptia Security+ SY-601 separados por Capítulos. **N
 **L2TP** - *Layer 2 Transport Protocol*
 
 ### M
+**MTBF** - *Mean Time Before Failure*\
+**MTTR** - *Mean Time to Repair*\
 
 ### N
 **NIST** - *National Institute of Standards and Technology* : Onde vem boa parte dos padrões, boa fonte de SegInfo\
@@ -62,12 +69,14 @@ Material de estudo para o Comptia Security+ SY-601 separados por Capítulos. **N
 **PAM** - *Privileged Acces Management*\
 **PAT** - *Port Addres Translation* : O Mecanismo que implementa o **NAT** numa rede interna\
 **PMK** - *Pairwise Master Key*\
+**PKI** - *Public Key Infrastructure*\
 
 ### Q
 
 ### R
 **RFC** - *Request for Comments* : Quando liberam uma tecnologia nova ou patch e ela está em fase de testes, etc.\
 **RTP** - *Real-Time Transport Protocol*\
+**RAID** - *Redundant Array of Independent Disks*\
 
 ### S
 **SPOF** - *Single Point of Failure* : Quando a aplicação tem apenas um ponto que sustenta toda a disponibilidade dela\
@@ -75,6 +84,8 @@ Material de estudo para o Comptia Security+ SY-601 separados por Capítulos. **N
 **SSO** - *Single Sign On* : Logar uma única vez no sistema para fazer todas as operações\
 **SAML** - *Security Assertion Markup Language* : Um padrão que usa Federations para trocar mensagens XML-Based e garantir **SSO** em diferentes Websites\
 **SED** - *Self Encryption Drive*\
+**SPIM** - *Spam over the Internet Message*\
+**SLE** - *Single Loss Expectancy*\
 
 ### T
 **TCO** - *Total Cost of Ownership*\
@@ -82,6 +93,7 @@ Material de estudo para o Comptia Security+ SY-601 separados por Capítulos. **N
 
 ### U
 **UTM** - *Unified Threat Management* : Sistema que oferece tratamento de segurança unificado. Como Firewall, AntiDDoS, etc.\
+**UPS** - *Uninterruptable Power Supply*\
 
 ### V
 **VDI** - *Virtual Desktop Infrastructure* : Hospedar desktops virtualmente\
