@@ -3,7 +3,7 @@
 ## Cyber Kill Chain
 1. Recon
 2. Weaponization(Malware)
-3. Delivery(Pauload to target)
+3. Delivery(Payload to target)
 4. Exploitation
 5. Installation
 6. Command and Control
