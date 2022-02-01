@@ -26,3 +26,7 @@
 15. Prepending : “Thus, you need to know that when it is used for this exam it can mean one of three things: adding an expression or phrase to an email, subject line, or headers to either protect or fool users. They also note that it can be used when adding data as part of an attack, and that social engineers may “prepend” information by inserting it into conversation to get targets to think about things the attacker wants them to.”
 16. “Although auditing some libraries or libraries that are custom-developed for the code is common, auditing all libraries used in the code is unlikely except in exceptional situations.”
 17. “A denial-of-service (DoS) attack may target a memory leak. If an attacker can induce the web application to generate the memory leak, then eventually the web application will consume all memory on the web server and the web server will crash.”
+18. **Skimming** is stealing our credit card information as we use the card for some other purpose.
+19. **Man in the Browser** Malware is used to change the client's computer network routing to perform a classic man-in-the-middle attack.
+20. Botnets geralmente se conectam com o Command and Control via IRC, um protocolo antigo usado para Internet Relay Chat. Padrao do IRC de fato sempre foi executar o IRC em TCP 6667.
+21. Calling their extension é ligar para o RAMAL. Vishing é Phishing de Voice, não de Video!
