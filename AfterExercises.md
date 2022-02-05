@@ -74,18 +74,3 @@
 4. Least Connection é redirecionar para o que tiver menos
 5. A reverse proxy accepts clients requests and forwards them to an internal host or hosts for processing, thus hiding the true identity of the internal host(s). É o termo mais proximo de Load Balancer
 
-# Jason Dion
-
-1. Em criptografia, RC4 era o algoritmo simétrico de criptografia de fluxo mais usado no software e era utilizado nos protocolos mais conhecidos, como Secure Socket Layers e WEP
-2. Cain & Abel (frequentemente abreviado para Cain) é uma ferramenta de recuperação de senha para Microsoft Windows. Ele pode recuperar muitos tipos de senhas usando métodos como sniffing de pacotes de rede, decifrando vários hashes de senhas, por meio do uso de métodos como ataques de dicionário, força bruta e ataques de análise de criptografia.[1] Os ataques de criptoanálise são feitos através de tabelas de arco-íris, que podem ser geradas com o programa winrtgen.exe, fornecido com o Cain & Abel
-3. MSSP vem da sigla em inglês Managed Security Services Providers. São empresas que proveem serviços gerenciados de segurança para outras empresas, através de um SOC – Security Operations Center. 
-
-## SMURF ATTACK
-
-A Smurf attack scenario can be broken down as follows:
-
-1. Smurf malware is used to generate a fake Echo request containing a spoofed source IP, which is actually the target server address.
-2. The request is sent to an intermediate IP broadcast network.
-3. The request is transmitted to all of the network hosts on the network.
-4. Each host sends an ICMP response to the spoofed source address.
-5. With enough ICMP responses forwarded, the target server is brought down.
