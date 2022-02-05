@@ -26,7 +26,9 @@
 # Access Controls
 1. **Role-Based ou Role-BAC** : Separar por função/departamento
 2. **Rule-Based ou Rule-BAC** : Baseado em permitir ou bloquear acesso segundo regras. Ex:Rule-BAC estático como ACL de Firewalls ou Dinâmico como IPS(Intrusion Prevention Systems)
-3. **Discretionary** : Um dono de arquivo que controla as permissões. Ex: Windows e Linux Files, todo arquivo tem um DACList que mostra a ACL de acesso
+3. **Discretionary ou DAC** : Um dono de arquivo que controla as permissões. Ex: Windows e Linux Files, todo arquivo tem um DACList que mostra a ACL de acesso
 4. **Atribute-Based ou ABAC** : Usa políticas baseadas em atributos da conta para garantir acesso. É muito usada em SDN's. Ex: Atributo de Inspetor, TI, etc.
+5. **MAC (Mandatory Access Control)** MAC (Mandatory Access Control) is an access control policy defined by system administrators.
+
 
 **Conditional Access** é parecido com ABAC, mas as condições podem ser IP Location, MFA, Device Type/MAC, etc. Usada na Azure AD
