@@ -75,4 +75,3 @@ Certificados podem estar expirados, não serem confiáveis ou serem revogados, d
 
 **Key Scrow** é o ato de guardar uma cópia da chave privada em um ambiente seguro\
 **Public Key Pinning** é uma técnica que ajuda a mitigar ataques de personificação de certificados pois quando configurada corretamente em um servidor, se responde a uma HTTPS request com um cabeçalho extra contendo uma lista de hashes de public keys válidas usadas pelo site
-

@@ -17,7 +17,7 @@
 | HOTP e TOTP | São padrões open source para criar one-time passwords. Enquanto o HOTP não expira até ser usado, o TOTP expira a cada 30 segundos.
 | PAM System | É um sistema que apenas concede determinados privilégios de forma temporária à uma determinada conta que explicitamente os requisitou. |
 | Privillege Creep ou Permission Bleat | É quando o usuário acumula privilégios após mudar de área/tipo de conta. Uma account audit identificaria quando o Least Privillege não é seguido e detecta essa anomalia |
-| Kerberos | Protocolo de autenticação em rede que usa criptografia simétrica para se autenticar no Windows AD ou Unix Realm. Ele usa um banco de dados e um KDC para criar tickets com timestamps, válidos por um determinado intervalo de tempo |
+| Kerberos | Protocolo de autenticação em rede que usa criptografia simétrica para se autenticar no Windows AD ou Unix Realm. Ele usa um banco de dados e um KDC para criar tickets com timestamps, válidos por um determinado intervalo de tempo |d
 | Federation | Une privilégios de autenticação de 2 sistemas sem juntá-los. Para isso precisamos de um Federation Identity Management |
 | OAuth | É um padrão de autorização entre websites que permite você usar uma conta como Gmail ou Facebook para realizar serviços no site |
 
