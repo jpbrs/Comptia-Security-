@@ -13,6 +13,9 @@ A Smurf attack scenario can be broken down as follows:
 3. The request is transmitted to all of the network hosts on the network.
 4. Each host sends an ICMP response to the spoofed source address.
 5. With enough ICMP responses forwarded, the target server is brought down.
+
+## General Knowledge
+
 6. If a user or system has configured their email accounts to require two-factor authentication (2FA) or multifactor authentication, then even if they enter their username and password correctly in the third-party email client, they will receive the "Invalid credentials" error message.
 7. Application blocklisting is the most appropriate practice to implement to block a limited number of known programs. Application allow listing could be used to achieve this purpose, but it would require much more work and block every program not specifically allowed by the allow list or approve list policy
 8. The purple team is made up of both the blue and red teams to work together to maximize their cyber capabilities through continuous feedback and knowledge transfer between attackers and defenders.
