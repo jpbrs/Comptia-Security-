@@ -28,6 +28,8 @@ A Smurf attack scenario can be broken down as follows:
 15. Banner Grabbing é uma técnica usada para obter informações sobre um sistema de computador em uma rede e os serviços em execução em suas portas abertas.
 16. One-time pad (OTP), em português cifra de uso único ou chave de uso único, é uma técnica de criptografia que não pode ser quebrada se utilizada corretamente. Consiste num algoritmo em que o purotexto é combinado, caractere por caractere, a uma chave secreta aleatória que para isso deve ter, no mínimo, o mesmo número de caracteres do purotexto. Para garantir que a criptografia seja imperscrutável, a chave só deve ser usada uma única vez, sendo imediatamente destruída após o uso
 17. IP Theft é INTELLECTUAL PROPERTY THEFT
+18. **A Golden Ticket attack** is when an attacker has complete and unrestricted access to an entire domain — all computers, files, folders, and most importantly, the access control system itself.
+
 
 ## Em um caso onde um funcionário da empresa tem sua Workstation agindo estranhamente
 
