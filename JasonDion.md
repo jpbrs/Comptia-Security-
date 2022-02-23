@@ -27,6 +27,9 @@ A Smurf attack scenario can be broken down as follows:
 9. IP Theft é INTELLECTUAL PROPERTY THEFT
 10. **A Golden Ticket attack** is when an attacker has complete and unrestricted access to an entire domain — all computers, files, folders, and most importantly, the access control system itself.
 11. **Double File Extension**. Adversaries may abuse a double extension in the filename as a means of masquerading the true file type. A file name may include a secondary file type extension that may cause only the first extension to be displayed (ex: File. txt.exe may render in some views as just File. txt )
+12. **Dereferencing** é quando um ponteiro é desreferenciado e aponta para outra parte da memória. This is where the programmer is dereferencing a portion of memory that’s being used by that application, except in this case there’s nothing at that memory address to dereference and the application crashes.
+13. In both cases (trusted boot and the measured boot), the basic flow starts with the TPM performing a measurement of the BIOS/EFI layer. After measuring the BIOS/EFI layer, the next layer (firmware) is measured. In this case, the resulting hash is combined with the previous hash (which was stored in the PCR slot) and then also stored in a PCR slot. The process continues until all the layers involved in the process have been measured and the hashes' results have been stored.
+14. Iris recognition looks at the unique patterns in the iris. Because the iris is visible, the process of enrolling and identifying people is simple. A retinal scan looks at the complex network of vessels that supply the retina with blood. A special scanning device is used to shoot a beam of light into the eye. To enroll, a person must be positioned very close to the scanner – much closer than for iris recognition.
 
 
 
