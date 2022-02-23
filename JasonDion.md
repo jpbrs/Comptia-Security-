@@ -25,11 +25,21 @@ A Smurf attack scenario can be broken down as follows:
 7. Banner Grabbing é uma técnica usada para obter informações sobre um sistema de computador em uma rede e os serviços em execução em suas portas abertas.
 8. One-time pad (OTP), em português cifra de uso único ou chave de uso único, é uma técnica de criptografia que não pode ser quebrada se utilizada corretamente. Consiste num algoritmo em que o purotexto é combinado, caractere por caractere, a uma chave secreta aleatória que para isso deve ter, no mínimo, o mesmo número de caracteres do purotexto. Para garantir que a criptografia seja imperscrutável, a chave só deve ser usada uma única vez, sendo imediatamente destruída após o uso
 9. IP Theft é INTELLECTUAL PROPERTY THEFT
-10. **A Golden Ticket attack** is when an attacker has complete and unrestricted access to an entire domain — all computers, files, folders, and most importantly, the access control system itself.
+10. **A Golden Ticket attack** is when an attacker has complete and unrestricted access to an entire domain — all computers, files, folders, and most importantly, the access control system itself. A golden ticket is a Kerberos ticket that can grant other tickets in an Active Directory environment
 11. **Double File Extension**. Adversaries may abuse a double extension in the filename as a means of masquerading the true file type. A file name may include a secondary file type extension that may cause only the first extension to be displayed (ex: File. txt.exe may render in some views as just File. txt )
 12. **Dereferencing** é quando um ponteiro é desreferenciado e aponta para outra parte da memória. This is where the programmer is dereferencing a portion of memory that’s being used by that application, except in this case there’s nothing at that memory address to dereference and the application crashes.
 13. In both cases (trusted boot and the measured boot), the basic flow starts with the TPM performing a measurement of the BIOS/EFI layer. After measuring the BIOS/EFI layer, the next layer (firmware) is measured. In this case, the resulting hash is combined with the previous hash (which was stored in the PCR slot) and then also stored in a PCR slot. The process continues until all the layers involved in the process have been measured and the hashes' results have been stored.
-14. Iris recognition looks at the unique patterns in the iris. Because the iris is visible, the process of enrolling and identifying people is simple. A retinal scan looks at the complex network of vessels that supply the retina with blood. A special scanning device is used to shoot a beam of light into the eye. To enroll, a person must be positioned very close to the scanner – much closer than for iris recognition.
+14. Iris recognition looks at the unique patterns in the iris. Because the iris is visible, the process of enrolling and identifying people is simple. To enroll an iris or irides, a person stands at distance from the iris recognition camera which uses an infrared camera (similar to a regular camcorder) to take a digital photo of the iris. A retinal scan looks at the complex network of vessels that supply the retina with blood. A special scanning device is used to shoot a beam of light into the eye. To enroll, a person must be positioned very close to the scanner – much closer than for iris recognition.
+16. WPA (Wi-Fi Protected Access) é um protocolo de comunicação via rádio. **É um protocolo WEP melhorado.** Também chamado de WEP2, ou TKIP (Temporal Key Integrity Protocol), essa primeira versão do WPA (Wi-Fi Protected Access) surgiu de um esforço conjunto de membros da Wi-Fi Aliança e de membros do IEEE, empenhados em aumentar o nível de segurança das redes sem fio ainda no ano de 2003, combatendo algumas das vulnerabilidades do WEP.
+17. Combining the dictionary and brute force methods into a single tool is known as a hybrid password cracking approach.
+18. Attribute-based access control (ABAC) provides the most detailed and explicit type of access control over a resource because it is capable of making access decisions based on a combination of subject and object attributes, as well as context-sensitive or system-wide attribute
+19. Pass the Hash (PtH) is the process of harvesting an account's cached credentials when the user logs in to a single sign-on (SSO) system. This would then allow the attacker to use the credentials on other systems, as well
+
+## Federations
+
+Possuem Identity Providers e Service Providers ou Request Provider Authentication.
+
+SAML is a solution for providing single sign-on (SSO) and federated identity management. It allows a service provider (SP) to establish a trust relationship with an identity provider (IdP) so that the SP can trust the identity of a user (the principal) without the user having to authenticate directly with the SP
 
 
 
@@ -60,6 +70,12 @@ In a cryptographic erase (CE), the storage media is encrypted by default. The en
 1. 10.0.0.0 – 10.255.255.255
 2. 172.16.0.0 – 172.31.255.255
 3. 192.168.0.0 – 192.168.255.255	
+
+# RTO vs RPO
+
+Recovery time objective (RTO) is when an individual IT system may remain offline following a disaster. This represents the amount of time it takes to identify a problem and then perform recovery (restore from backup or switch in an alternative system, for instance). Recovery point objective (RPO) is the amount of data loss that a system can sustain, measured in time. That is, if a virus destroys a database, an RPO of 24 hours means that the data can be recovered (from a backup copy) to a point not more than 24 hours before the database was infected
+
+Ps: Mean time to repair (MTTR) is a measure of the time taken to correct a fault to restore the system to full operation. **Não necessariamente tem a ver com desastres**
 
 # Políticas de Proteção de Dados
 
